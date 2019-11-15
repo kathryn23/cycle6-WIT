@@ -1,0 +1,76 @@
+body {
+    background-color: lightslategray;
+    font-family: verdana;
+    color: rgb(7, 7, 7);
+  }
+
+.pert, .pety, .pet, .pett, .pol {
+    font-family: open sans;
+    font-size: 15px;
+    margin-left: 30px;
+  }
+
+h1 {
+    font-size: 25px;
+    text-align: left;
+    font-family: open sans;
+    margin-left: 10px; 
+  }
+p{
+  font-family: open sans;
+  margin-left: 25px;
+  font-size: 15px;
+}
+.paart{
+  font-family: open sans;
+  margin-left: 25px;
+  font-size: 12px; 
+  background: lightgrey;
+  line-height: 30px;
+  padding: 20px;
+  margin-left: 40px;
+}
+/*row 2 of column 1*/
+#pik {
+  background: lightslategray; 
+  margin-left:5px; 
+  }
+/*styling the menu lists*/
+#pik li {
+  list-style-type: none;
+  display:block;
+  font-size: 16px;
+  padding-bottom: 3px;
+  padding-top: 3px;
+  }
+  /*affets both lists and links*/
+  #pik li a {
+    text-decoration: none;
+  }
+  #pik ul li a{
+    text-decoration: none;
+    text-align: left;
+    
+  }
+  .bar a:link  {
+    text-align: justify;
+    text-decoration: none;
+    display: inline-block;
+    color:black;
+  }
+  .bar a:active {
+    text-decoration: none;
+    color:black;
+  }
+  .bar a:visited {
+    text-decoration: none;
+    color:black;
+  }
+ .bar a:hover {
+    text-decoration: none;
+  }
+hr{
+  margin-left:0px;
+  border-inline-width: 10px;
+  padding-left: 20px;
+  }
