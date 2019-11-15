@@ -1,0 +1,24 @@
+<!DOCTYPE html> 
+<html><head>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="bar" id="pik">
+  <ul>
+    <!--will take you to the #, directly to the anchor called introduction within a page-->
+      <hr><li><a href="#Introduction">Introduction</a></li>
+      <hr><li><a href="#What you should already know" >What you should already know</a></li>
+      <hr><li><a href="#Hello world">Hello world</a></li>
+      <hr><li><a href="#JavaScript and Java">JavaScript and Java</a></li>
+      <hr><li><a href="#Variables">Variables</a></li>
+      <hr><li><a href="#Declaring variables">Declaring variables</a></li>
+      <hr><li><a href="#Variable scope">Variable scope</a></li>
+      <hr><li><a href="#Global variables">Global variables</a></li>
+      <hr><li><a href="#Constants">Constants</a></li>
+      <hr><li><a href="#Data types">Data types</a></li>
+      <hr><li><a href="#if...else statement">if...else statement</a></li>
+      <hr><li><a href="#while statement">while statement</a></li>
+      <hr><li><a href="#Function declarations">Function declarations</a></li>
+     <hr><li><a href="#Reference">Reference</a></li>
+  </ul></div>
+</body></html>
